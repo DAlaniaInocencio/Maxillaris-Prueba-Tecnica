@@ -1,0 +1,37 @@
+
+    {
+        "id": 1,
+        "name": "myc",
+        "email": "darvin1.alania@gmail.com",
+     }
+--------------------------
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJkYXJ2aW4xLmFsYW5pYUBnbWFpbC5jb20iLCJpYXQiOjE3MzE2Mzg2MDksImV4cCI6MTczMTY0MjIwOX0.EYyeLMA2o3Ysn2-JM9y8ufbiHgpBpFoNO1oXX9lWb1w
+
+
+--------------------------
+    {
+        "id": 2,
+        "name": "myc2",
+        "email": "darvin2.alania@gmail.com",
+ }
+--------------------------
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJkYXJ2aW4yLmFsYW5pYUBnbWFpbC5jb20iLCJpYXQiOjE3MzE2Mzg2MzAsImV4cCI6MTczMTY0MjIzMH0._VT593W9yzI5YTvpYdR0yqhMLZa5qLiTDg4dfr-YYCw
+
+
+--------------------------
+    {
+        "id": 3,
+        "name": "myc3",
+        "email": "darvin3.alania@gmail.com",
+ }
+
+--------------------------
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJkYXJ2aW4zLmFsYW5pYUBnbWFpbC5jb20iLCJpYXQiOjE3MzE2Mzg2NTAsImV4cCI6MTczMTY0MjI1MH0.vrew51Lr0BQ5q_UqkBi5y1290Ad3bZn5Q1TDmj2bFqQ
+
+--------------------------
+
+
+
+
+INSTALAR PARA JEST:
+npm i -D jest supertest
